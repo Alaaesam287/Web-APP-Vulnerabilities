@@ -202,8 +202,4 @@ Prevents query structure manipulation
 - PortSwigger SQLi Cheat Sheet:  
     [https://portswigger.net/web-security/sql-injection/cheat-sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 ---
-## Disclaimer
-This material is for educational and ethical security testing purposes only.  
-Do not use these techniques on systems without proper authorization.
 
----
